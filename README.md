@@ -26,12 +26,12 @@ $  python main.py dir
 - Send:
 
 ```console 
-$  python main.py dir -s -t "your text here"                                       
+$  python main.py dir -s -t "your text"                                       
 ```
 or
 
 ```console 
-$  python main.py dir -s -f fileToEncrypt.txt                                       
+$  python main.py dir -s -f file.txt                                       
 ```
 or
 
